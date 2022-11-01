@@ -15,3 +15,7 @@ Multiboxing & Round Robin video:
 Previous topic on the subject:
 - https://github.com/EloiStree/2020_12_27_WowFarm...
   - https://github.com/EloiStree/2020_12_27_WowFarm... 
+
+
+Tutorial with OMI code of an old version:
+https://gist.github.com/EloiStree/2153fceb104b0cea858d212ec839c2e3
