@@ -7,7 +7,6 @@ Campaign link: https://igg.me/at/volumefishing
 
 
 ## Video
-[![image](https://user-images.githubusercontent.com/20149493/200031639-3636dee6-f602-43e0-8365-0204f273db4f.png)](https://youtu.be/yplPbtlp01g)](https://youtu.be/yplPbtlp01g)
 
 Short: https://youtu.be/HlUpOHfsitk  
 Long: https://youtu.be/yplPbtlp01g  
